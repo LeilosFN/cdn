@@ -1,5 +1,14 @@
 {
-  "title": "Launcher",
-  "content": "El launcher esta ya funcionaa!!!! ",
-  "date": "24/01/2026"
+  "news": [
+    {
+      "title": "Inicio del Desarrollo V2",
+      "date": "2026-01-27",
+      "content": "Hemos comenzado oficialmente el desarrollo de Leilos V2. ¡Buscamos desarrolladores y testers!"
+    },
+    {
+      "title": "Nuevo Launcher",
+      "date": "2026-01-26",
+      "content": "El nuevo launcher híbrido Rust/Electron está en fase de pruebas iniciales."
+    }
+  ]
 }

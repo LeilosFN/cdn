@@ -1,3 +1,9 @@
 {
-  "status": false
+  "services": [
+    { "name": "Backend", "status": "online", "color": "green" },
+    { "name": "Game Server", "status": "maintenance", "color": "orange" },
+    { "name": "Launcher", "status": "online", "color": "green" },
+    { "name": "CDN", "status": "online", "color": "green" },
+    { "name": "Web", "status": "online", "color": "green" }
+  ]
 }
