@@ -1,14 +1,6 @@
 {
   "news": [
-    {
-      "title": "Inicio del Desarrollo V2",
-      "date": "2026-01-27",
-      "content": "Hemos comenzado oficialmente el desarrollo de Leilos V2. ¡Buscamos desarrolladores y testers!"
-    },
-    {
-      "title": "Nuevo Launcher",
-      "date": "2026-01-26",
-      "content": "El nuevo launcher híbrido Rust/Electron está en fase de pruebas iniciales."
-    }
+    {"title": "Inicio de Leilos","date": "2026-01-27","content": "Hemos comenzado oficialmente el desarrollo de Leilos. ¡Buscamos desarrolladores y testers! Nota: solo por ahora Españoles y vale con todo tipo de personas con y sin conocimientos :D"}
   ]
 }
+
