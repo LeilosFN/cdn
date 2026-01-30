@@ -1,11 +1,15 @@
 {
+  "version": "1.0.7",
+  "news": {
+    "title": "Versión 1.0.7 Disponible",
+    "content": "Hemos mejorado la seguridad y la estabilidad. Ahora los componentes críticos se actualizan automáticamente.",
+    "date": "2026-01-30"
+  },
   "services": [
-    { "name": "Backend", "status": "down", "color": "red" },
-    { "name": "Game Server", "status": "maintenance", "color": "orange" },
+    { "name": "Backend", "status": "online", "color": "green" },
+    { "name": "Game Server", "status": "down", "color": "red" },
     { "name": "Launcher", "status": "down", "color": "red" },
     { "name": "CDN", "status": "online", "color": "green" },
     { "name": "Web", "status": "online", "color": "green" }
   ]
 }
-
-

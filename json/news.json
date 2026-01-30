@@ -1,6 +1,5 @@
-{
-  "news": [
-    {"title": "Inicio de Leilos","date": "2026-01-27","content": "Hemos comenzado oficialmente el desarrollo de Leilos. ¡Buscamos desarrolladores y testers! Nota: solo por ahora Españoles y vale con todo tipo de personas con y sin conocimientos :D"}
-  ]
-}
-
+{ 
+   "news": [ 
+     {"title": "Inicio de Leilos","date": "2026-01-27","content": "Hemos comenzado oficialmente el desarrollo de Leilos. ¡Buscamos desarrolladores y testers! Nota: solo por ahora Españoles y vale con todo tipo de personas con y sin conocimientos :D"} 
+   ] 
+ }
