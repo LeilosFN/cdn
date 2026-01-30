@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "news": {
     "title": "Versión 1.0.7 Disponible",
     "content": "Hemos mejorado la seguridad y la estabilidad. Ahora los componentes críticos se actualizan automáticamente.",
