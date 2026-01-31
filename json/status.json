@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.9",
   "services": [
     { "name": "Backend", "status": "online", "color": "green" },
     { "name": "Game Server", "status": "down", "color": "red" },
