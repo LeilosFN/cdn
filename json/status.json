@@ -2,8 +2,8 @@
   "version": "1.1.0",
   "services": [
     { "name": "Backend", "status": "down", "color": "red" },
-    { "name": "Game Server", "status": "online", "color": "green" },
-    { "name": "Launcher", "status": "down", "color": "red" },
+    { "name": "Game Server", "status": "down", "color": "red" },
+    { "name": "Launcher", "status": "rebuild", "color": "orange" },
     { "name": "CDN", "status": "online", "color": "green" },
     { "name": "Web", "status": "online", "color": "green" }
   ]
