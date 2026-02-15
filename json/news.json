@@ -1,5 +1,10 @@
 {
   "news": [
+        {
+      "title": "Launcher 1.1.1",
+      "date": "2026-02-15",
+      "content": "El launcher en la versión v1.1.1. ya se ha publica ya no da errores por juego por ahora.\n Estaremos informando cuando haya avances. Gracias por la paciencia."
+    },
     {
       "title": "⚠️ Incidencia Launcher v1.0.9 (Beta)",
       "date": "2026-02-07",
@@ -22,3 +27,4 @@
     }
   ]
 }
+
