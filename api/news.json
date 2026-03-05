@@ -1,0 +1,35 @@
+{
+  "news": [
+    {
+      "title": "Aviso Importante",
+      "date": "2026-03-05",
+      "content": "Hola a todos,\n\nQuería comunicarles una decisión importante sobre el futuro del proyecto.\n\nHe estado trabajando en el proyecto, pero he encontrado algunos obstáculos. En primer lugar, la versión 28.30 del backend no está suficientemente optimizada, lo que limita el rendimiento. Además, he notado una falta de actividad en el servidor y una comunidad que no crece como esperaba.\n\nPor estas razones, he decidido tomar la siguiente medida:\n\n**El proyecto pasará a ser privado temporalmente.**\n\nEsto significa que no será accesible al público hasta que todos los componentes clave estén completamente terminados y pulidos. Esto incluye:\n\n- Imágenes y logos\n- Backend y servidores\n- Configuración de IPs y dominios\n\nAgradezco enormemente el apoyo que he recibido hasta ahora."
+    },
+    {
+      "title": "Launcher 1.1.1",
+      "date": "2026-02-15",
+      "content": "El launcher en la versión v1.1.1. ya se ha publica ya no da errores por juego por ahora.\n Estaremos informando cuando haya avances. Gracias por la paciencia."
+    },
+    {
+      "title": "⚠️ Incidencia Launcher v1.0.9 (Beta)",
+      "date": "2026-02-07",
+      "content": "El launcher en la versión v1.0.9 ha dejado de funcionar correctamente.\n\nEsto se debe a que aún se encontraba en fase beta y han surgido errores críticos durante su uso.\n\n🔧 ¿Qué estamos haciendo ahora?\n- Reconfiguración completa de los DLL\n- Revisión del arranque del launcher\n- Limpieza y ajuste del sistema interno\n\nEl launcher será reconstruido y estabilizado antes de volver a publicarse.\n\nIremos informando cuando haya avances. Gracias por la paciencia."
+    },
+    {
+      "title": "⏳ El Launcher estará disponible muy pronto",
+      "date": "2026-02-01",
+      "content": "El launcher de Leilos estará disponible en los próximos días.\n\nActualmente estamos trabajando intensamente en el backend para garantizar que todo funcione de forma estable, rápida y sin errores desde el primer día.\n\nGracias por la paciencia, se vienen cosas buenas 🚀"
+    },
+    {
+      "title": "🚀 Actualización del Launcher – v1.0.9",
+      "date": "2026-01-31",
+      "content": "Estamos reconstruyendo el launcher desde cero y ya vamos por la versión v1.0.9.\n\n✨ ¿Qué incluye esta versión?\n- 🧩 Nueva interfaz, más limpia y visual\n- 🔒 Muchísima más estabilidad que versiones anteriores\n- 🎮 Integración con Discord\n\nCuando estés jugando, aparecerá en tu estado de actividad:\nLeilos Launcher\n\nSeguimos puliendo todo poco a poco."
+    },
+    {
+      "title": "Inicio del proyecto Leilos",
+      "date": "2026-01-27",
+      "content": "Hemos comenzado oficialmente el desarrollo de Leilos.\n\n🔍 Buscamos desarrolladores y testers.\n\nNota: por ahora solo personas de España. No importa si tienes conocimientos o no, toda ayuda es bienvenida :D"
+    }
+  ]
+}
+

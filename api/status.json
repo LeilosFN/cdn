@@ -1,0 +1,10 @@
+{
+  "version": "1.1.2",
+  "services": [
+    { "name": "Web", "status": "OK", "color": "green" },
+    { "name": "CDN", "status": "OK", "color": "green" },
+    { "name": "Launcher", "status": "NO", "color": "red" },
+    { "name": "Backend", "status": "NO", "color": "red" },
+    { "name": "Game Server", "status": "NO", "color": "red" }
+  ]
+}
