@@ -1,6 +1,11 @@
 {
   "news": [
     {
+  "title": "Estado del server EU-MAD",
+  "date": "2026-03-17",
+  "content": "⚠️ **REINICIO DE EMERGENCIA - EU-MAD**\n\nDebido a que hemos estado haciendo demasiadas pruebas y 'mierdas raras', el servidor entrará en mantenimiento hasta nuevo aviso. \n\nSi quieres que esto deje de petar tanto, **únete al equipo de Dev**. Nos da igual si eres un skid, si usas IA para todo (como yo, el creador) o si programas en binario con los ojos cerrados. Si el código ayuda y funciona, para dentro. Eso sí, habrá una verificación posterior para asegurar que todo rula bien.\n\nRecuerda: este es un proyecto de comunidad donde todos tenemos voz. ¡Ayúdanos a mejorar!\n\n👉 **Formulario de Dev:** https://mini.crisu.qzz.io/?d=leilos_form_dev"
+    },
+    {
       "title": "Aviso Importante",
       "date": "2026-03-05",
       "content": "Hola a todos,\n\nQuería comunicarles una decisión importante sobre el futuro del proyecto.\n\nHe estado trabajando en el proyecto, pero he encontrado algunos obstáculos. En primer lugar, la versión 28.30 del backend no está suficientemente optimizada, lo que limita el rendimiento. Además, he notado una falta de actividad en el servidor y una comunidad que no crece como esperaba.\n\nPor estas razones, he decidido tomar la siguiente medida:\n\n**El proyecto pasará a ser privado temporalmente.**\n\nEsto significa que no será accesible al público hasta que todos los componentes clave estén completamente terminados y pulidos. Esto incluye:\n\n- Imágenes y logos\n- Backend y servidores\n- Configuración de IPs y dominios\n\nAgradezco enormemente el apoyo que he recibido hasta ahora."
