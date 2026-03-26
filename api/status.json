@@ -4,7 +4,7 @@
     { "name": "Web", "status": "OK", "color": "green" },
     { "name": "CDN", "status": "OK", "color": "green" },
     { "name": "Launcher", "status": "OK", "color": "green" },
-    { "name": "Backend", "status": "OK", "color": "green" },
-    { "name": "Game Server", "status": "OK", "color": "green" }
+    { "name": "Backend", "status": "Configuring", "color": "orange" },
+    { "name": "Game Server", "status": "NO", "color": "red" }
   ]
 }
