@@ -1,6 +1,11 @@
 {
   "news": [
     {
+  "title": "Actualización del Proyecto / Project Update",
+  "date": "2026-03-27",
+  "content": "ACTUALIZACIÓN DE LEILOS: ¡Hola a todos! Traigo novedades del proyecto. El Panel de Control ya funciona correctamente y desde allí se gestionarán los anuncios y canales. El sistema de Matchmaking sigue en desarrollo (mantenimiento) mientras termino de programarlo para evitar fallos. Intenté lanzar la versión para Android, pero por ahora no ha sido posible; ¡la próxima será! Me encantaría que más gente se una al equipo para ayudarme a crecer. Por ahora me apoyo en trae.ai, pero toda ayuda es bienvenida. --- ENGLISH: LEILOS UPDATE: Hi everyone! The Bot Panel is now operational for managing news and channels. Matchmaking is still under maintenance while I finish the code to ensure it's bug-free. I tried to bring the project to Android, but it wasn't possible yet; better luck next time! I'd love for more people to join the team and help us grow. I'm currently using trae.ai for support, but any help is welcome. Website: https://leilos.qzz.io/news"
+    },
+    {
       "title": "Estado del server EU-MAD",
       "date": "2026-03-17",
       "content": "EU-MAD**\n\nDebido a que hemos estado haciendo demasiadas pruebas y 'mierdas raras', el servidor entrará en mantenimiento hasta nuevo aviso.\n\nSi quieres que esto deje de petar tanto, **únete al equipo de Dev**. Nos da igual si eres un skid, si usas IA para todo (como yo, el creador) o si programas en binario con los ojos cerrados. Si el código ayuda y funciona, para dentro. Eso sí, habrá una verificación posterior para asegurar que todo rula bien.\n\nRecuerda: este es un proyecto de comunidad donde todos tenemos voz. ¡Ayúdanos a mejorar!\n\n👉 **Formulario de Dev:** https://mini.crisu.qzz.io/?d=leilos_form_dev" 
