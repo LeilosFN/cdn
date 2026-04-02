@@ -2,6 +2,11 @@
   "news": [
     {
   "title": "Actualización del Proyecto / Project Update",
+  "date": "2026-04-02",
+  "content": "Hola a todos lo siento por decir pero el Proyecto va a cerrar por que no consigo (Yo Crisutf) hacer que el backend funcione en el tema de los modos a la partida y pues como el proyecto no tiene actividad lo tengo que cerrar aun que dejo el código abierto / Hello everyone, I'm sorry to say this, but the project is going to close because I (Crisutf) can't get the backend to work with the game modes, and since the project isn't active, I have to close it, although I'm leaving the code open source. "
+    },
+    {
+  "title": "Actualización del Proyecto / Project Update",
   "date": "2026-03-27",
   "content": "ACTUALIZACIÓN DE LEILOS: ¡Hola a todos! Traigo novedades del proyecto. El Panel de Control ya funciona correctamente y desde allí se gestionarán los anuncios y canales. El sistema de Matchmaking sigue en desarrollo (mantenimiento) mientras termino de programarlo para evitar fallos. Intenté lanzar la versión para Android, pero por ahora no ha sido posible; ¡la próxima será! Me encantaría que más gente se una al equipo para ayudarme a crecer. Por ahora me apoyo en trae.ai, pero toda ayuda es bienvenida. --- ENGLISH: LEILOS UPDATE: Hi everyone! The Bot Panel is now operational for managing news and channels. Matchmaking is still under maintenance while I finish the code to ensure it's bug-free. I tried to bring the project to Android, but it wasn't possible yet; better luck next time! I'd love for more people to join the team and help us grow. I'm currently using trae.ai for support, but any help is welcome. Website: https://leilos.qzz.io/news"
     },
