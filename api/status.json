@@ -1,10 +1,10 @@
 {
   "version": "1.1.4",
   "services": [
-    { "name": "Web", "status": "OK", "color": "green" },
-    { "name": "CDN", "status": "OK", "color": "green" },
-    { "name": "Launcher", "status": "OK", "color": "green" },
-    { "name": "Backend", "status": "OK", "color": "orange" },
-    { "name": "Game Server", "status": "OK", "color": "red" }
+    { "name": "Web", "status": "DOWN", "color": "red" },
+    { "name": "CDN", "status": "DOWN", "color": "red" },
+    { "name": "Launcher", "status": "DOWN", "color": "red" },
+    { "name": "Backend", "status": "DOWN", "color": "red" },
+    { "name": "Game Server", "status": "DOWN", "color": "red" }
   ]
 }
